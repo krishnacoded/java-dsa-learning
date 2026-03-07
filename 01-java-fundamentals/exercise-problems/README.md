@@ -144,16 +144,162 @@ You entered: X
 
 ---
 
-# Coming Next
+# 4. Conditionals (10 Problems)
 
-This exercise set will later include **20 additional problems**:
+### 🟢 Easy
 
-- 10 problems for **Conditionals**
-- 10 problems for **Loops**
-
-These will focus on decision-making logic and repetition, which are essential for algorithm design.
+**1.** Write a program that takes a number and determines whether it is:
+Positive
+Negative
+Zero
 
 ---
+
+**2.** Write a program to determine the **largest of three numbers** entered by the user.
+
+---
+
+**3.** Write a program that asks for a student's marks and prints the grade:
+90+ → A
+75–89 → B
+60–74 → C
+40–59 → D
+<40 → Fail
+
+---
+
+### 🟡 Moderate
+
+**4.** Write a program that checks whether a year is a **leap year**.
+
+Rules:
+Divisible by 4
+Not divisible by 100
+Unless divisible by 400
+
+---
+
+**5.** Write a program that takes **three angles of a triangle** and determines whether the triangle is:
+Equilateral
+Isosceles
+Scalene
+Invalid
+
+---
+
+**6.** Write a program that takes a number and determines whether it is:
+Single-digit
+Double-digit
+Three-digit
+More
+
+---
+
+**7.** Write a program that asks for a **month number (1–12)** and prints the number of days in that month.
+
+---
+
+### 🔴 Difficult
+
+**8.** Write a program that checks whether three numbers can form a **valid triangle**.
+
+Rule:
+a + b > c
+b + c > a
+a + c > b
+
+---
+
+**9.** Write a program that implements a **simple calculator using switch**.
+
+Input:
+number1
+operator (+ - \* /)
+number2
+
+Output the result.
+
+---
+
+**10.** Write a program that determines the **quadrant of a point (x, y)** in the coordinate plane.
+x > 0, y > 0 → Quadrant 1
+x < 0, y > 0 → Quadrant 2
+x < 0, y < 0 → Quadrant 3
+x > 0, y < 0 → Quadrant 4
+
+Also handle cases where the point lies on the axes.
+
+---
+
+# 5. Loops (10 Problems)
+
+### 🟢 Easy
+
+**1.** Write a program to print numbers from **1 to N** using a loop.
+
+---
+
+**2.** Write a program to print the **sum of all even numbers from 1 to N**.
+
+---
+
+**3.** Write a program to print the **multiplication table of a number up to 20**.
+
+Example:
+5 x 1 = 5
+5 x 2 = 10
+...
+
+---
+
+### 🟡 Moderate
+
+**4.** Write a program to **count digits in a number**.
+
+Example:
+Input: 78345
+Output: 5
+
+---
+
+**5.** Write a program to **reverse a number**.
+
+Example:
+Input: 12345
+Output: 54321
+
+---
+
+**6.** Write a program to **find the sum of digits of a number**.
+
+Example:
+Input: 572
+Output: 14
+
+---
+
+**7.** Write a program to check whether a number is a **palindrome**.
+
+Example:
+121 → palindrome
+123 → not palindrome
+
+---
+
+### 🔴 Difficult
+
+**8.** Write a program to determine whether a number is **prime**.
+
+---
+
+**9.** Write a program to print **all prime numbers between 1 and N**.
+
+---
+
+**10.** Write a program to generate the **Fibonacci sequence up to N terms**.
+
+Example:
+0 1 1 2 3 5 8 13
 
 # Recommended Practice Method
 
